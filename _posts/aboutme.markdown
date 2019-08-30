@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "关于我"
+title:  "aboutme"
 date:   2019-08-30 00:00:00 +0530
 categories: 教育背景 实习经历 校园经历
 ---
