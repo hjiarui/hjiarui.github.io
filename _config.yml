@@ -1,4 +1,5 @@
-title: Your awesome title
+remote_theme: thelehhman/plainwhite-jekyll
+title: HuJiarui
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,15 +13,15 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Hu Jiarui
+  tagline: Human resourcer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
+    github:  hjiarui
     linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
