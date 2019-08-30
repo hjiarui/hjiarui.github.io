@@ -1,80 +1,27 @@
----
-layout: default
----
-
-{%- if page.title -%}
-<h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
-
-{{ content }}
-
-{%- if site.posts.size > 0 -%}
 <ul class="posts">
-  <li>
-    <h1 id="posts-label">posts</h1>
-  </li>
+	<li>
+		<h1 id="posts-label">posts</h1>
+	</li><li><a class="post-link" href="/web/vue/react/Custom-Controls-Form/">
+			<h2 class="post-title">Custom Controls with HTML5 Form in Vue/React</h2>
+		</a>
+		<div class="post-meta">
+			<ul class="post-categories"><li>web</li><li>vue</li><li>react</li></ul>
+			<div class="post-date"><i class="icon-calendar"></i>Jul 26, 2019</div>
+		</div>
+		<div class="post"><p>I’ve seen many people implement custom POST requests for submitting form data when using modern SPA Frameworks like Vue &amp; React. Most of the times, the need arises because they are using a custom component. The component’s data cannot be passed as it is using HTML <code class="highlighter-rouge">&lt;form&gt;</code>. That’s where <code class="highlighter-rouge">input[type=hidden]</code> comes to the rescue.</p>
 
-  {%- for post in site.posts -%}
-  <li>
-    {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-    <a class="post-link" href="{{ "album.markdown" }}"> 
-      <h2 class="post-title">{{ post.title | escape }}</h2>
-    </a>
-    <div class="post-meta">
-      <ul class="post-categories">
-        {%- for tag in post.categories -%}
-        <li>{{ tag }}</li>
-        {%- endfor -%}
-      </ul>
-      <div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
-    </div>
-    <div class="post">
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {%- endif -%}
-    </div>
-  </li>
-  {%- endfor -%}
-</ul>
+</div>
+	</li><li><a class="post-link" href="/web/payments/Integrating-Razorpay-Web/">
+			<h2 class="post-title">Integrating razorpay into your webapp</h2>
+		</a>
+		<div class="post-meta">
+			<ul class="post-categories"><li>web</li><li>payments</li></ul>
+			<div class="post-date"><i class="icon-calendar"></i>Mar 26, 2019</div>
+		</div>
+		<div class="post"><p>In order to start charging customers we require a payment processor. <a href="https://stripe.com">Stripe</a> and <a href="http://braintreepayments.com">braintreepayments.com</a> are popular options in this space. <a href="https://razorpay.com/">Razorpay</a> is perhaps the best option as of now for the Indian audience.</p>
 
----
-layout: default
----
-
-{%- if page.title -%}
-<h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
-
-{{ content }}
-
-{%- if site.posts.size > 0 -%}
-<ul class="posts">
-  <li>
-    <h1 id="posts-label">posts</h1>
-  </li>
-
-  {%- for post in site.posts -%}
-  <li>
-    {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-    <a class="post-link" href="{{ "aboutme.markdown"}}">
-      <h2 class="post-title">{{ post.title | escape }}</h2>
-    </a>
-    <div class="post-meta">
-      <ul class="post-categories">
-        {%- for tag in post.categories -%}
-        <li>{{ tag }}</li>
-        {%- endfor -%}
-      </ul>
-      <div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
-    </div>
-    <div class="post">
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {%- endif -%}
-    </div>
-  </li>
-  {%- endfor -%}
-</ul>
+</div>
+	</li></ul>
 
 <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
 		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
