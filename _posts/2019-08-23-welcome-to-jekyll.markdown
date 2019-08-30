@@ -6,6 +6,8 @@ categories: 海报 PS AI
 ---
 更多海报作品，点击进入
 
+![PNG]({{site.baseurl}}/_posts.png)
+
 ## 活动海报
 ![no1](https://github.com/hjiarui/hjiarui.github.io/blob/master/_posts/%E5%85%AC%E7%9B%8A%E6%96%B0%E6%98%9F%E8%AE%A1%E5%88%92.png)
 
