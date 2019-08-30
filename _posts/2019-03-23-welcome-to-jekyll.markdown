@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "About ME"
+date:   2019-08-30 00:00:00 +0530
+categories: Experience
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+ByteDance or Beijing ByteDance Technology Co Ltd. is a Chinese Internet technology company operating several machine learning-enabled content platforms
 
 ```javascript
 const Razorpay = require('razorpay');
