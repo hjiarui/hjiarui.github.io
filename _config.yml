@@ -13,16 +13,16 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Hu Jiarui
-  tagline: Human resourcer
+  name: 胡家瑞
+  tagline: hjr95@163.com
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    twitter: 000
     github:  hjiarui
-    linkedIn: in/thelehhman
+    linkedIn: 000
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
