@@ -6,21 +6,10 @@ categories: 海报 PS AI
 ---
 更多海报作品，点击进入
 
+```javascript
+
 ![no1](https://github.com/hjiarui/hjiarui.github.io/blob/master/album/1.png)
 
-```javascript
-const Razorpay = require('razorpay');
-
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
