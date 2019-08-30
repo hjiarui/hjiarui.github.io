@@ -6,7 +6,7 @@ categories: 海报 PS AI
 ---
 海报作品
 
-![NO1] (https://github.com/hjiarui/hjiarui.github.io/blob/master/%E6%B5%B7%E6%8A%A5%E4%BD%9C%E5%93%81/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190827143719.png)
+![no1](https://github.com/hjiarui/hjiarui.github.io/blob/master/album/1.png)
 
 ```javascript
 const Razorpay = require('razorpay');
