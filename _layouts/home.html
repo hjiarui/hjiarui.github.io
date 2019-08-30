@@ -17,7 +17,7 @@ layout: default
   {%- for post in site.posts -%}
   <li>
     {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-    <a class="post-link" href="{{ "_posts/album.markdown" | relative_url }}"> 
+    <a class="post-link" href="{{ "/posts/album.markdown" | relative_url }}"> 
       <h2 class="post-title">{{ post.title | escape }}</h2>
     </a>
     <div class="post-meta">
@@ -56,7 +56,7 @@ layout: default
   {%- for post in site.posts -%}
   <li>
     {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-    <a class="post-link" href="{{ "_posts/aboutme.markdown" | relative_url }}">
+    <a class="post-link" href="{{ "posts/aboutme.markdown" | relative_url }}">
       <h2 class="post-title">{{ post.title | escape }}</h2>
     </a>
     <div class="post-meta">
