@@ -20,13 +20,6 @@ categories: 教育背景 实习经历 校园经历
 
 -计算机二级、普通话二甲
 
----
-layout: post
-title:  "作品集"
-date:   2019-08-30 00:00:00 +0530
-categories: 海报设计
----
-AAAA
 
 ```javascript
 const Razorpay = require('razorpay');
