@@ -11,7 +11,7 @@ categories: 海报 PS AI
 
 ![no2](https://github.com/hjiarui/hjiarui.github.io/blob/master/_posts/%E6%B5%B7%E6%8A%A53.2.png)
 
-![no3](<img src="_posts/psb.png" />)
+<img src="../album/1.png" >
 
 ![no4](https://github.com/hjiarui/hjiarui.github.io/blob/master/_posts/1820parallel.png)
 
