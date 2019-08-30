@@ -51,6 +51,7 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
+$ bundle
 
 plugins:
   - jekyll-seo-tag
