@@ -4,7 +4,7 @@ title:  "关于我"
 date:   2019-08-30 00:00:00 +0530
 categories: 个人履历 实习经验 校园经历
 ---
--北京师范大学社会工作专业硕士研究生。山西大学管理学学士、文学双硕士。曾赴悉尼大学暑期交流。<br>
+-北京师范大学社会工作专业硕士研究生。山西大学管理学学士、文学双学士。曾赴悉尼大学暑期交流。<br>
 -2018年和2019年，分别在“中国太平洋人寿保险公司”和“北京字节跳动科技有限公司”人事岗位实习。工作内容包括80%招聘与20%文化支持。<br>
 -校园经历丰富，高中至大学担任过班长、团支书、宣传委员等多个学生职务，也曾在校级学生组织中担任部长，管理成员数量从20至100人不等。<br>
 -能够数量操作Adobe Photoshop、Microsoft Office等软件<br>
@@ -20,8 +20,4 @@ categories: 个人履历 实习经验 校园经历
 
 -计算机二级、普通话二甲
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
