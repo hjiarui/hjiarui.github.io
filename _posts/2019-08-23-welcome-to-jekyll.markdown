@@ -7,7 +7,7 @@ categories: 海报 PS AI
 更多海报作品，点击进入
 
 ## 活动海报
-<img src="../assets/hb1834.png>
+<img src="../assets/hb1834.png">
 
 
 
